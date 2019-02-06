@@ -1,5 +1,13 @@
 # this is a comment line
 
+# we can use "#" to add comments lines to .gitigit rmgnore
+
 # my InteliJ idea related file
     .idea/
     *.imlgit status
+
+
+
+
+    # git rm -r --cached .
+    # this command is going to removegit status
