@@ -1,1 +1,5 @@
-# this is e comment line
+# this is a comment line
+
+# my InteliJ idea related file
+    .idea/
+    *.imlgit status
